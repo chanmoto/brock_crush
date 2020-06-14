@@ -3,3 +3,5 @@ BLOCK　CRUSHのハゲタカは、ＰＣ８００１で遊べるブロック崩�
 
 youtube
 https://www.youtube.com/watch?v=LogDHOlunZ4&t=159s
+
+License MIT @ chanmoto
